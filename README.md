@@ -24,5 +24,5 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senai 990 "Avak Bedouian"
 ---
 
 📫 Entre em contato!  
-📧 Email: [seu.email@email.com](mailto:seu.email@email.com)  
-🌐 Portfólio: [seusite.com](https://seusite.com)  
+📧 Email: [anaalicecamps07@gmail.com)  
+
