@@ -25,6 +25,6 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senai 990 "Avak Bedouian"
 
 📫 Entre em contato!  
 📧 Email: anaalicecamps07@gmail.com
+
 Instagram: @anaalicegavioli
-TIKTOK: @anaalicejbl
 
