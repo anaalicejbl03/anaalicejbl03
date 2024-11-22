@@ -1,16 +1,28 @@
-## Hi there 👋
+ 🌟 Olá, eu sou Ana Alice! 
 
-<!--
-**anaalicejbl03/anaalicejbl03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👩‍💻 Sobre mim  
+Estudante de Análise e Desenvolvimento de Sistemas no Senai 990 "Avak Bedouian"
+🎓 Estudante apaixonado(a) por programação e tecnologia.  
+🚀 Atualmente, trabalho em projetos com foco em desenvolvimento web e Python.  
+💡 Explorando frameworks como Flask e novas tecnologias para expandir meus conhecimentos!  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Tecnologias e Ferramentas  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+
+
+
+📊 Minhas Estatísticas  
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)  
+
+---
+
+📫 Entre em contato!  
+📧 Email: [seu.email@email.com](mailto:seu.email@email.com)  
+🌐 Portfólio: [seusite.com](https://seusite.com)  
